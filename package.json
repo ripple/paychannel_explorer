@@ -1,0 +1,14 @@
+{
+  "name": "channel-explorer",
+  "version": "0.0.1",
+  "description": "XRP ledger PayChannel Explorer",
+  "license": "ISC",
+  "scripts": {},
+  "author": "Matthew Fettig",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bignumber.js": "^7.2.1",
+    "moment": "^2.22.2",
+    "nconf": "^0.10.0"
+  }
+}
