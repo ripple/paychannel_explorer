@@ -8,7 +8,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "bignumber.js": "^7.2.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "nconf": "^0.10.0"
   }
 }
